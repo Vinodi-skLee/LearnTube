@@ -5,7 +5,7 @@
 
 ## 참여자
 
-| ![](https://github.com/zihooy.png) | ![](https://github.com/Jeeseul.png) | ![](https://github.com/gomster96.png) | ![](https://github.com/kimjueun1.png) | ![](https://github.com/skLee-HGU.png) |
+| ![](https://github.com/zihooy.png) | ![](https://github.com/Jeeseul.png) | ![](https://github.com/gomster96.png) | ![](https://github.com/kimjueun1.png) | ![](https://github.com/Vinodi-skLee.png) |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :-----------------------------------: | :------------------------------------: |
 |             **양지후**              |             **이지슬**              |             **안병웅**              |            **김주은**            |            **이선경**             |
 
